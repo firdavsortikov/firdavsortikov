@@ -3,7 +3,7 @@
  I am a passionate learner of Softwere Engineering. <br>
  📍&nbsp; Brooklyn, New York <br>
  🎓&nbsp; NYCCT <br>
- 📧&nbsp; DM me anytime fortikov.fo@gmail.com
+ 📧&nbsp; DM me anytime ↪ fortikov.fo@gmail.com
 
  ### Languages and tools I work with: 
  
