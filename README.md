@@ -1,13 +1,13 @@
 ### Hi, I am Firdavs Ortikov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px">
 
  I am a passionate learner of Softwere Engineering.
- 
+ 📍&nbsp; Brooklyn, New York <br>
  ### Languages and tools I work with: 
  
  <code><img src="https://w7.pngwing.com/pngs/390/229/png-transparent-logo-html5-brand-design-text-logo-number.png" widht="40px" height="40px"></code>
  <code><img src="https://coryrylan.com/assets/images/posts/types/css.svg" widht="45px" height="45px"></code>
 
-📍&nbsp; Brooklyn, New York <br>
+
 follow me
 <br>
 <br>
