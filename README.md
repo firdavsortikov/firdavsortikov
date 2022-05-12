@@ -1,6 +1,6 @@
 ### Hi, I am Firdavs Ortikov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px">
 
-I am a passionate learner of Softwere Engineering.
+<img src="https://pnggrid.com/wp-content/uploads/2021/07/Facebook-Logo-Square-768x768.png" width="27px"> I am a passionate learner of Softwere Engineering.
 
 
 follow me
