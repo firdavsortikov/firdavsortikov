@@ -2,11 +2,9 @@
 
 I am a passionate learner of Softwere Engineering.
 
-
-<a href="#" class="social-icon si-rounded si-small si-linkedin">
-    <i class="icon-linkedin"></i>
-    <i class="icon-linkedin"></i>
- </a>
+<a href="https://twitter.com/dcodeyt'
+   <ion-icon name="logo-twitter"></ion-icon>
+</a>
  
  
 follow me <br>
