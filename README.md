@@ -4,7 +4,7 @@
  
  ### Languages and tools I work with: 
  
- <code><img src="http://assets.stickpng.com/thumbs/5847f5bdcef1014c0b5e489c.png" widht="27px"></code>
+ <code><img src="https://banner2.cleanpng.com/20190612/ujg/kisspng-html5-software-developer-javascript-world-wide-web-cng-ty-tnhh-tmdv-chn-hng-my-in-siu-t-5d0108ee8bfb11.9390709815603489105734.jpg" widht="27px"></code>
 
 
 follow me
