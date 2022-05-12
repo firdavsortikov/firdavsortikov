@@ -2,7 +2,7 @@
 
  I am a passionate learner of Softwere Engineering. <br>
  📍&nbsp; Brooklyn, New York <br>
- 🎓NYCCT
+ 🎓&nbsp; NYCCT
 
  ### Languages and tools I work with: 
  
