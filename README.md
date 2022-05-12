@@ -5,7 +5,7 @@
  ### Languages and tools I work with: 
  
  <code><img src="https://w7.pngwing.com/pngs/390/229/png-transparent-logo-html5-brand-design-text-logo-number.png" widht="40px" height="40px"></code>
- <code><img src="https://storage.needpix.com/rsynced_images/logo-2582747_1280.png" widht="40px" height="40px"></code>
+ <code><img src="https://coryrylan.com/assets/images/posts/types/css.svg" widht="40px" height="40px"></code>
 
 
 follow me
