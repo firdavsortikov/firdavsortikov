@@ -4,7 +4,7 @@
  
  ### Languages and tools I work with: 
  
- <code><img src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png" widht="35px" height="35px"></code>
+ <code><img src="https://w7.pngwing.com/pngs/390/229/png-transparent-logo-html5-brand-design-text-logo-number.png" widht="35px" height="35px"></code>
 
 
 follow me
