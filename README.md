@@ -2,6 +2,8 @@
 
  I am a passionate learner of Softwere Engineering. <br>
  📍&nbsp; Brooklyn, New York <br>
+ 🎓NYCCT
+
  ### Languages and tools I work with: 
  
  <code><img src="https://w7.pngwing.com/pngs/390/229/png-transparent-logo-html5-brand-design-text-logo-number.png" widht="40px" height="40px"></code>
