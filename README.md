@@ -5,4 +5,4 @@ I am a passionate learner of Softwere Engineering.
 
 follow me <br>
 
-<img src="https://image.similarpng.com/very-thumbnail/2020/07/Linkedin-logo-transparent-PNG.png" width="27px">
+<a href="https://www.linkedin.com/in/firdavs-ortikov-a52a00210/"></a><img src="https://image.similarpng.com/very-thumbnail/2020/07/Linkedin-logo-transparent-PNG.png" width="27px">
