@@ -2,7 +2,7 @@
 
 I am a passionate learner of Softwere Engineering.
 
-<a href="https://twitter.com/dcodeyt'
+<a href="https://www.linkedin.com/in/firdavs-ortikov-a52a00210/"
    <ion-icon name="logo-twitter"></ion-icon>
 </a>
  
