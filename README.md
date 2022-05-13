@@ -10,6 +10,7 @@
  <code><img src="https://w7.pngwing.com/pngs/390/229/png-transparent-logo-html5-brand-design-text-logo-number.png" widht="40px" height="40px"></code>
  <code><img src="https://coryrylan.com/assets/images/posts/types/css.svg" widht="45px" height="45px"></code>
  <code><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" widht="45px" height="45px"></code>
+ <code><img src="https://e1.pngegg.com/pngimages/452/590/png-clipart-clay-os-6-a-macos-icon-github-desktop-white-cat-on-purple-background-icon.png" widht="45px" height="45px"></code>
 
 
 follow me
