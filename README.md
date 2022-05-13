@@ -11,6 +11,7 @@
  <code><img src="https://coryrylan.com/assets/images/posts/types/css.svg" widht="45px" height="45px"></code>
  <code><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" widht="45px" height="45px"></code>
  <code><img src="https://e1.pngegg.com/pngimages/452/590/png-clipart-clay-os-6-a-macos-icon-github-desktop-white-cat-on-purple-background-icon.png" widht="45px" height="45px"></code>
+ <a href="https://www.facebook.com/profile.php?id=100008536249437" target="_blank"><img src="https://e1.pngegg.com/pngimages/452/590/png-clipart-clay-os-6-a-macos-icon-github-desktop-white-cat-on-purple-background-icon.png" width="27px"></a>
 
 
 follow me
