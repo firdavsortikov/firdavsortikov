@@ -12,7 +12,7 @@
  <code><img src="https://image.pngaaa.com/772/3801772-middle.png" widht="45px" height="45px"></code>
  <code><img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" widht="45px" height="45px"></code>
  <code><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" widht="45px" height="45px"></code>
- <code><img src="https://e1.pngegg.com/pngimages/452/590/png-clipart-clay-os-6-a-macos-icon-github-desktop-white-cat-on-purple-background-icon.png" widht="25px" height="25px"></code>
+ <code><img src="https://e1.pngegg.com/pngimages/452/590/png-clipart-clay-os-6-a-macos-icon-github-desktop-white-cat-on-purple-background-icon.png" widht="25px" height="45px"></code>
  
   
  
