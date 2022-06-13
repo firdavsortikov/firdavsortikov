@@ -7,7 +7,7 @@
 
  ### Languages and tools I work with: 
  
- <code><img src="https://w7.pngwing.com/pngs/390/229/png-transparent-logo-html5-brand-design-text-logo-number.png" widht="40px" height="40px"></code>
+ <code><img src="https://w7.pngwing.com/pngs/390/229/png-transparent-logo-html5-brand-design-text-logo-number.png" widht="20px" height="20px"></code>
  <code><img src="https://coryrylan.com/assets/images/posts/types/css.svg" widht="45px" height="45px"></code>
  <code><img src="https://image.pngaaa.com/772/3801772-middle.png" widht="45px" height="45px"></code>
  <code><img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" widht="45px" height="45px"></code>
